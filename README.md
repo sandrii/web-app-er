@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# web-app-er
-=======
-## fastapi-html
 
+# web-app-er
 
 ## Quickstart
 
