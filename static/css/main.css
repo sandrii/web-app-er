@@ -1,0 +1,31 @@
+/**
+ * Basic ready to use CSS Style #90ee90 - gr, #ff7f7f -rd
+ */
+
+html {
+height: 100%;
+}
+
+*, ::after, ::before {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+body {
+font-family: "Lato", Calibri, Arial, sans-serif;
+background-color: #ff7f7f;
+font-size: 16px;
+color: #333;
+-webkit-font-smoothing: antialiased;
+overflow-y: scroll;
+overflow-x: hidden;
+}
